@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+   <title>Test</title>
+   </head>
+
+    <body>
+    <P>My Information :</P>
+    <li>Huynh Tran Anh Khoa</li>
+    <li>Khoa Kelbin</li>
+    <li>Age : 19</li>
+    <li>University : Greenwich</li>
+    <li>Hometown : Go Vap District, Ho Chi Minh City</li>
+     <img src = "https://www.facebook.com/photo.php?fbid=109581960735354&set=pb.100050506515682.-2207520000..&type=3">  
+       
+     <P>My Hobby :</P>
+    <li>Supercar.</li>
+    <li>Hypercar.</li>
+    <li>Football.</li>
+    <li>Hiphop and Music.</li>
+    <li>Technology.</li>
+    <li>Good Food and Cooking.</li>
+</body>
+</html>
